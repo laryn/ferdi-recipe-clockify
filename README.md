@@ -1,5 +1,5 @@
-# Clockify for Franz
-This is the official Franz recipe for [Clockify](https://clockify.me/), the forever free time tracking application.
+# Clockify for Ferdi
+This is a [Ferdi](https://getferdi.com/) recipe for [Clockify](https://clockify.me/), the forever free time tracking application.
 
 ### How to create your own Franz recipes:
-* [Read the documentation](https://github.com/meetfranz/plugins)
+* [Read the documentation](https://help.getferdi.com/server/recipes)
